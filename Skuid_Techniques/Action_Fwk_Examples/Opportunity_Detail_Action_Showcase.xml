@@ -1191,13 +1191,7 @@
 						</skuid__wrapper>
 					</components>
 					<renderConditions logictype="and"/>
-					<onInitialShowActions>
-						<action type="showModal">
-							<skuid__modal title="New Modal" width="640px">
-								<components/>
-							</skuid__modal>
-						</action>
-					</onInitialShowActions>
+					<onInitialShowActions/>
 					<onShowActions/>
 				</skuid__tabPanel>
 			</tabs>
